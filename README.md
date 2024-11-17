@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @mithanihussain123
+- 👋 Hi, I’m Hussain
 - 👀 I’m interested in ...AI & ML
 - 🌱 I’m currently learning ...2nd Year B.E
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+
+- 😄 Pronouns: He/him
+
 
 <!---
 mithanihussain123/mithanihussain123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
